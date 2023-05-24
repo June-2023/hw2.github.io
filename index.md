@@ -1,4 +1,5 @@
-This blog is about my R Markdown study
+Hello, here I'd like to share my R Markdown study, I am trying to practice the key knowledge of R Markdown:  
+
 # R Markdown
 ## R Markdown: Introduction
 R Markdown Basics  
