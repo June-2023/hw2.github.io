@@ -1,6 +1,11 @@
 This blog is about my R Markdown study
 # R Markdown
 ## R Markdown: Introduction
+R Markdown Basics  
+*italics*   
+**bold**  
+~~strikethrough~~    
+
 ## R Markdown: Syntax & Code Chunks
 ## R Markdown Practice
 
