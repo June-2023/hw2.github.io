@@ -13,4 +13,5 @@ R Markdown Basics
   + sub-item 2  
 ## R Markdown Practice
 
+Here is the book to read about R markdown  
 ![] https://science.uct.ac.za/sites/default/files/content_migration/science_uct_ac_za/708/images/Dom%2520toolbox%2520first%2520slide.png
